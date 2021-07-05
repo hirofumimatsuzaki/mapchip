@@ -1,0 +1,7 @@
+{
+  "name": "mapchip",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
